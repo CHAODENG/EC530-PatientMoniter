@@ -1,1 +1,2 @@
-# EC530-PatientMoniter
+# Project2-Patient Monitor Platform
+
